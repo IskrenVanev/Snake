@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Snake workshop\Snake workshop\bin\Debug\Snake workshop.exe.config
+C:\Users\User\source\repos\Snake workshop\Snake workshop\bin\Debug\Snake workshop.exe
+C:\Users\User\source\repos\Snake workshop\Snake workshop\bin\Debug\Snake workshop.pdb
+C:\Users\User\source\repos\Snake workshop\Snake workshop\obj\Debug\Snake workshop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Snake workshop\Snake workshop\obj\Debug\Snake workshop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Snake workshop\Snake workshop\obj\Debug\Snake workshop.exe
+C:\Users\User\source\repos\Snake workshop\Snake workshop\obj\Debug\Snake workshop.pdb
